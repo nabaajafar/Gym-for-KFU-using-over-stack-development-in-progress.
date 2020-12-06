@@ -1,0 +1,76 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Feb 21, 2020, 6:03:01 PM
+    Author     : Nabaa
+
+*/
+
+#wrapper{max-width: 1400px; margin: 0 auto }
+ body{background-image: url("oooo (2).png")}
+//.img{width: 40px;}
+#header img{width: 1400px;height:250px }
+#footer{ display: inline-block;margin-left: 260px}
+#col1{background-color: gray; height: 350px;width: 370px; text-align: center;float: left; display: inline;}
+#col1 h2 a{text-transform: uppercase;color: mediumvioletred}
+#col1 img{display: inline}
+
+#col2{height: 350px;width: 370px;text-align: center;float: left; display: inline; margin-left:-170px;background-color:  thistle}
+#col2 p{color:mediumvioletred;text-align: center }
+#col2 a{font-weight: bold;font-size: 20px; color: darkmagenta}
+
+#col3{background-color: lightgray;height: 350px;width: 370px; text-align: center; color: mediumvioletred;float: left; display: inline;}
+#col3 h2{text-transform: uppercase;}
+#col3 p{color: black}
+#col3 button{width: 200px;height: 120px;background-color: gray;margin-left: 15px; border: 1px white solid;font-size: 20px;}
+
+#coachForm{display: inline;margin-left: 30px;}
+.mySlides {display: none;width: 1200px;height: 390px; margin-left: 60px}
+
+li{display: block;float: left;position: relative;text-decoration: none;transition-duration: 0.5s;}
+
+li:hover {background: gainsboro;cursor: pointer;}
+
+#nav{background-color: gray;width: 1400px;font-family:fantasy; }
+#nav a{text-decoration: none;color: black}
+#nav ul{list-style: none;display: table-cell;height: 80px;vertical-align:middle;}
+#nav li{margin-right:80px;font-size: 25px}
+#nav ul ul>li{font-size: 19px;font-family:sans-serif;}
+ul li ul {background-color: ghostwhite;visibility: hidden;opacity: 0;position: absolute; display: inline-block }
+
+ul li:hover > ul,
+ul li:focus-within > ul,
+ul li ul:hover {visibility: visible;opacity: 1;}
+
+ul li ul>li {clear: both;width: 80%;}
+
+#contect{position:absolute;transform: translate(30%, -117%);}
+ .img{width: 50px;}
+ .foot1{float:left;margin-right:250px;}
+  #con{float: left;}
+  .n{width:27px}
+#end {width: 1400px;height:250px }
+footer { display: inline-block;margin-top: 50px;margin-bottom: 10px;}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
